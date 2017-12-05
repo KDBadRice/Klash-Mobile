@@ -1,0 +1,26 @@
+C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\bin\Debug\Klash V2.dll
+C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\bin\Debug\Klash V2.pdb
+C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\bin\Debug\Klash_V2.Klash_V2.apk
+C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\bin\Debug\Klash_V2.Klash_V2-Signed.apk
+C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\obj\Debug\Klash V2.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\obj\Debug\Klash V2.dll
+C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\obj\Debug\Klash V2.pdb
+C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\obj\Debug\android\bin\Klash_V2.Klash_V2.apk
+C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\obj\Debug\res\layout\main.xml
+C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\obj\Debug\res\values\strings.xml
+C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\obj\Debug\R.cs.flag
+C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\obj\Debug\uploadflags.txt
+C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\bin\Debug\Klash V2.dll.mdb
+C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\obj\Debug\android\assets\Klash V2.dll.mdb
+C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\obj\Debug\res\layout\menuactivity.xml
+C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\obj\Debug\res\layout\playerview.xml
+C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\obj\Debug\res\layout\tourneydata.xml
+C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\obj\Debug\res\layout\match.xml
+C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\obj\Debug\res\layout\teamview.xml
+C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\obj\Debug\res\layout\matchdata.xml
+C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\obj\Debug\res\layout\scheduleview.xml
+C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\bin\Debug\Klash V2.dll.config
+C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\bin\Debug\RiotSharp.dll
+C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\bin\Debug\RiotSharp.xml

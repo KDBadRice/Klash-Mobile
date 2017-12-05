@@ -1,0 +1,28 @@
+Klash_V2.MainActivity, Klash V2;md567e6bd1de76b3b37cbb01d9ad7303053.MainActivity
+Klash_V2.MainActivity, Klash V2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md567e6bd1de76b3b37cbb01d9ad7303053.MainActivity
+Klash_V2.MainActivity;md567e6bd1de76b3b37cbb01d9ad7303053.MainActivity
+klash_v2.MainActivity;md567e6bd1de76b3b37cbb01d9ad7303053.MainActivity
+Klash_V2.matchActivity, Klash V2;md567e6bd1de76b3b37cbb01d9ad7303053.matchActivity
+Klash_V2.matchActivity, Klash V2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md567e6bd1de76b3b37cbb01d9ad7303053.matchActivity
+Klash_V2.matchActivity;md567e6bd1de76b3b37cbb01d9ad7303053.matchActivity
+klash_v2.matchActivity;md567e6bd1de76b3b37cbb01d9ad7303053.matchActivity
+Klash_V2.menuActivity, Klash V2;md567e6bd1de76b3b37cbb01d9ad7303053.menuActivity
+Klash_V2.menuActivity, Klash V2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md567e6bd1de76b3b37cbb01d9ad7303053.menuActivity
+Klash_V2.menuActivity;md567e6bd1de76b3b37cbb01d9ad7303053.menuActivity
+klash_v2.menuActivity;md567e6bd1de76b3b37cbb01d9ad7303053.menuActivity
+Klash_V2.playerViewActivity, Klash V2;md567e6bd1de76b3b37cbb01d9ad7303053.playerViewActivity
+Klash_V2.playerViewActivity, Klash V2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md567e6bd1de76b3b37cbb01d9ad7303053.playerViewActivity
+Klash_V2.playerViewActivity;md567e6bd1de76b3b37cbb01d9ad7303053.playerViewActivity
+klash_v2.playerViewActivity;md567e6bd1de76b3b37cbb01d9ad7303053.playerViewActivity
+Klash_V2.scheduleActivity, Klash V2;md567e6bd1de76b3b37cbb01d9ad7303053.scheduleActivity
+Klash_V2.scheduleActivity, Klash V2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md567e6bd1de76b3b37cbb01d9ad7303053.scheduleActivity
+Klash_V2.scheduleActivity;md567e6bd1de76b3b37cbb01d9ad7303053.scheduleActivity
+klash_v2.scheduleActivity;md567e6bd1de76b3b37cbb01d9ad7303053.scheduleActivity
+Klash_V2.teamActivity, Klash V2;md567e6bd1de76b3b37cbb01d9ad7303053.teamActivity
+Klash_V2.teamActivity, Klash V2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md567e6bd1de76b3b37cbb01d9ad7303053.teamActivity
+Klash_V2.teamActivity;md567e6bd1de76b3b37cbb01d9ad7303053.teamActivity
+klash_v2.teamActivity;md567e6bd1de76b3b37cbb01d9ad7303053.teamActivity
+Klash_V2.tourneyDataActivity, Klash V2;md567e6bd1de76b3b37cbb01d9ad7303053.tourneyDataActivity
+Klash_V2.tourneyDataActivity, Klash V2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md567e6bd1de76b3b37cbb01d9ad7303053.tourneyDataActivity
+Klash_V2.tourneyDataActivity;md567e6bd1de76b3b37cbb01d9ad7303053.tourneyDataActivity
+klash_v2.tourneyDataActivity;md567e6bd1de76b3b37cbb01d9ad7303053.tourneyDataActivity
