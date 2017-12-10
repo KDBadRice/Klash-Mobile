@@ -19,11 +19,17 @@ namespace Klash_V2
         private Button curLeagueButton;
         private Button scheduleButton;
         private Button teamButton;
+        private dataConfig riotDataPull;
+        private long playerID;
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
             SetContentView(Resource.Layout.menuActivity);
+
+            riotDataPull = new dataConfig("123");
+            playerID = riotDataPull.checkPlayer();
             findViews();
+
             playerButton.Click += delegate
             {
                 playerRequest(1);
@@ -43,10 +49,10 @@ namespace Klash_V2
             };
             // Create your application here
         }
-        private void playerRequest(int playerId)
+        private void playerRequest(long playerId)
         {
             var getPlayerViewActivity = new Android.Content.Intent(this, typeof(playerViewActivity));
-            getPlayerViewActivity.PutExtra("username", playerId);
+            getPlayerViewActivity.PutExtra("playerId", playerId);
             Console.WriteLine("player request");
             StartActivity(getPlayerViewActivity);
         }

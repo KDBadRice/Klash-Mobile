@@ -108,9 +108,10 @@ class MonoPackageManager_Resources {
 		/* We need to ensure that "Klash V2.dll" comes first in this list. */
 		"Klash V2.dll",
 		"Newtonsoft.Json.dll",
+		"RiotNet.dll",
 		"RiotSharp.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};
-	public static final String ApiPackageName = "Mono.Android.Platform.ApiLevel_26";
+	public static final String ApiPackageName = null;
 }

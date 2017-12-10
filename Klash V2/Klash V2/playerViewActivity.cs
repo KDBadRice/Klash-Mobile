@@ -15,10 +15,19 @@ namespace Klash_V2
     [Activity(Label = "playerViewActivity")]
     class playerViewActivity : Activity
     {
+        private long playerID;
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
             SetContentView(Resource.Layout.playerView);
+
+            if (Intent.HasExtra("playerId"))
+            {
+                //GetTableActivity.Window.SetTitle
+                playerID = Intent.GetLongExtra("playerID", playerID);
+      
+
+            }
         }
     }
 }

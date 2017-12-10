@@ -10,6 +10,7 @@ C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\obj\Debug\android
 C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\obj\Debug\android\assets\System.Xml.dll
 C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\obj\Debug\android\assets\mscorlib.dll
 C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\obj\Debug\android\assets\Newtonsoft.Json.dll
+C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\obj\Debug\android\assets\RiotNet.dll
 C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\obj\Debug\android\assets\RiotSharp.dll
 C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\obj\Debug\android\assets\System.Runtime.dll
 C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\obj\Debug\android\assets\System.ComponentModel.Composition.dll
@@ -44,5 +45,6 @@ C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\obj\Debug\android
 C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\obj\Debug\android\assets\System.Text.Encoding.dll
 C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\obj\Debug\android\assets\System.Reflection.Primitives.dll
 C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\obj\Debug\android\assets\System.Text.Encoding.Extensions.dll
-C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\obj\Debug\android\assets\System.Threading.Timer.dll
 C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\obj\Debug\android\assets\System.Net.Primitives.dll
+C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\obj\Debug\android\assets\System.ComponentModel.Annotations.dll
+C:\Users\Kevin\Documents\GitHub\Klash Mobile\Klash V2\Klash V2\obj\Debug\android\assets\System.Threading.Timer.dll

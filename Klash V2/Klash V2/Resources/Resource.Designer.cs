@@ -47,6 +47,9 @@ namespace Klash_V2
 			// aapt resource value: 0x7f04000e
 			public const int button1 = 2130968590;
 			
+			// aapt resource value: 0x7f040010
+			public const int button2 = 2130968592;
+			
 			// aapt resource value: 0x7f040000
 			public const int editText1 = 2130968576;
 			

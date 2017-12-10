@@ -12,6 +12,7 @@ public final class R {
     }
     public static final class id {
         public static final int button1=0x7f04000e;
+        public static final int button2=0x7f040010;
         public static final int editText1=0x7f040000;
         public static final int imageView1=0x7f04000d;
         public static final int loginBut=0x7f040006;
